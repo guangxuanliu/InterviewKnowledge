@@ -18,3 +18,5 @@
 
 [单例模式](Design_Patterns/SingleTon.cpp)
 
+[装饰者模式](https://blog.csdn.net/lh844386434/article/details/17932039)
+
